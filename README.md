@@ -1,5 +1,6 @@
-#About
-My solutions for the advent calender [Advent of Code](https://adventofcode.com) 
+# About
+
+My solutions for the advent calendar [Advent of Code](https://adventofcode.com) 
 created by Eric Wastl, written in [Python](https://www.python.org/).
 
 >Advent of Code is an Advent calendar of small programming puzzles 
